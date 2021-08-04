@@ -1,0 +1,22 @@
+.myStyle-content:hover {
+  border-radius: 0 !important;
+}
+.myStyle-content::before {
+  border-radius: 0 !important;
+}
+
+span.myStyle-content-image-title {
+  border-radius: 0 !important;
+  background-color: #26849d !important;
+  top: 0;
+  font-weight: lighter;
+}
+div.myStyle-subContent {
+  height: 14rem;
+}
+h3.myStyle-subContent-title {
+  margin-bottom: 0;
+}
+p.myStyle-subContent-contents {
+  color: #707074;
+}
